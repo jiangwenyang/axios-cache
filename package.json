@@ -1,0 +1,24 @@
+{
+  "name": "axios-cache",
+  "version": "1.0.0",
+  "description": "axios多级缓存实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangwenyang/axios-cache.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangwenyang/axios-cache/issues"
+  },
+  "homepage": "https://github.com/jiangwenyang/axios-cache#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "element-ui": "^2.13.2"
+  }
+}
